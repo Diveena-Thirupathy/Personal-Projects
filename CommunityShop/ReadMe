@@ -1,3 +1,5 @@
 This is a web application developed with real-time chat feature; users will be able to create account and view requests
 other users as well as send requests (to shop together, thereby saving shipping cost). Users can instantly chat with other 
 users (WebSocket implmentation).
+
+There has to be a database connection and has to be run on the local machine. 
